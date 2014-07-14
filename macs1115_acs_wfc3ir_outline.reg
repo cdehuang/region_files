@@ -1,0 +1,5 @@
+# Region file format: DS9 version 4.1
+# File used: /Volumes/Archive/CLASH/archive.stsci.edu/pub/clash/outgoing/macs1115/HST/catalogs/mosaicdrizzle_image_pipeline/ACS_IR_detection/SExtractor/detectionImage_SEGM.fits.gz
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+polygon(11:16:02.542,+1:30:06.72,11:16:00.085,+1:30:33.45,11:16:00.663,+1:31:24.01,11:15:54.256,+1:31:34.13,11:15:54.112,+1:31:34.13,11:15:51.366,+1:32:01.58,11:15:49.583,+1:31:34.13,11:15:47.078,+1:31:38.46,11:15:46.259,+1:30:32.73,11:15:42.502,+1:29:29.88,11:15:45.151,+1:28:56.65,11:15:44.814,+1:28:21.26,11:15:49.342,+1:28:14.03,11:15:53.919,+1:27:24.91,11:15:56.183,+1:28:06.09,11:15:58.640,+1:27:58.86,11:15:59.170,+1:29:01.71) # color=purple width=2
